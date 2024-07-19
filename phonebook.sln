@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "phonebook", "phonebook\phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal-pjt", "Animal-pjt\Animal-pjt.csproj", "{4717228D-E765-458E-851E-4EB7C5EDAC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#Assignment", "#Assignment\#Assignment.csproj", "{BF925CEC-B8DA-43BF-AD73-ACD6EE6567F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF925CEC-B8DA-43BF-AD73-ACD6EE6567F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF925CEC-B8DA-43BF-AD73-ACD6EE6567F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF925CEC-B8DA-43BF-AD73-ACD6EE6567F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF925CEC-B8DA-43BF-AD73-ACD6EE6567F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
