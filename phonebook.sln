@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phonebook", "phonebook\phonebook.csproj", "{7108BC96-146D-45F6-AD5D-9D30672FC2C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "phonebook", "phonebook\phonebook.csproj", "{7108BC96-146D-45F6-AD5D-9D30672FC2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal-pjt", "Animal-pjt\Animal-pjt.csproj", "{4717228D-E765-458E-851E-4EB7C5EDAC2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7108BC96-146D-45F6-AD5D-9D30672FC2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7108BC96-146D-45F6-AD5D-9D30672FC2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7108BC96-146D-45F6-AD5D-9D30672FC2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4717228D-E765-458E-851E-4EB7C5EDAC2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
